@@ -16,5 +16,6 @@ void Card::display()
     cout << "Cost: " << this->mana_cost << endl;
     cout << "Attack: " <<this->attack << endl;
     cout << "Defense: " << this->defense<< endl;
+    cout << "" << endl;
 
 }
